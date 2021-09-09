@@ -1,0 +1,24 @@
+{
+  "name": "my-dd-cli",
+  "version": "1.0.0",
+  "description": "钉钉小程序脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "my-dd-program-cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://10.106.11.64/liushengzhi/my-dd-mini-program-cli.git"
+  },
+  "keywords": [
+    "dd",
+    "mini-program",
+    "cli",
+    "my"
+  ],
+  "author": "ashen9",
+  "license": "ISC"
+}
