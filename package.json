@@ -1,6 +1,6 @@
 {
-  "name": "my-dd-cli",
-  "version": "1.0.1",
+  "name": "my-dd-program-cli",
+  "version": "1.0.2",
   "description": "钉钉小程序脚手架",
   "main": "index.js",
   "scripts": {
