@@ -1,6 +1,6 @@
 {
   "name": "my-dd-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "钉钉小程序脚手架",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
     "my"
   ],
   "author": "ashen9",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^8.1.0"
+  }
 }
